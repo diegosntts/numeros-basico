@@ -1,2 +1,2 @@
 # numeros-basico
-Baseado no curso JavaScript no youtube
+Baseado no curso JavaScript - Gustavo Guanabara
