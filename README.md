@@ -1,3 +1,4 @@
 # numeros-basico
 
-Baseado no curso JavaScript - Gustavo Guanabara
+Baseado no curso JavaScript 
+- Gustavo Guanabara
